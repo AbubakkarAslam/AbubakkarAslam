@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:312e81&text=MUHAMMAD%20ABU%20BAKAR%20ASLAM&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20DATA%20SCIENCE%20%20%E2%80%A2%20%20PYTHON&descAlignY=65&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:312e81&text=M.ABU%20BAKAR%20ASLAM&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20DATA%20SCIENCE%20%20%E2%80%A2%20%20PYTHON&descAlignY=65&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 

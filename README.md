@@ -28,13 +28,13 @@
 
 ---
 
-# 01 — ABOUT
+# ABOUT
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-## Hello, I'm Abu Bakar.
+## Hello, I'm Muhammad Abu Bakkar Aslam.
 
 I'm a **BS Information Technology graduate** focused on building a career in **Artificial Intelligence, Machine Learning and Data Science**.
 
@@ -72,11 +72,7 @@ Agentic AI
 
 ---
 
-# 02 — ENGINEERING STACK
-
-<table>
-<tr>
-<td valign="top" width="50%">
+# ENGINEERING STACK
 
 ### CORE
 
@@ -99,10 +95,6 @@ Agentic AI
 
 </p>
 
-</td>
-
-<td valign="top" width="50%">
-
 ### MACHINE LEARNING
 
 <p>
@@ -118,24 +110,3 @@ Agentic AI
 <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logoColor=white"/>
 </p>
 
-</td>
-</tr>
-</table>
-
----
-
-# 03 — WHAT I BUILD
-
-<div align="center">
-
-|        DOMAIN        | WHAT I WORK WITH                                               |
-| :------------------: | :------------------------------------------------------------- |
-| **Machine Learning** | Classification · Regression · Clustering · Feature Engineering |
-|   **Data Science**   | Data Cleaning · EDA · Visualization · Statistical Analysis     |
-|   **Deep Learning**  | Neural Networks · TensorFlow · Model Training                  |
-|  **Computer Vision** | Image Classification · Image Recognition                       |
-|        **NLP**       | Text Classification · Sentiment Analysis · Language Processing |
-|   **Generative AI**  | LLMs · Prompt Engineering · RAG                                |
-|     **AI Agents**    | Tool Calling · Workflows · Agentic Systems                     |
-
-</div>

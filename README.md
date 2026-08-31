@@ -16,10 +16,10 @@
   <a href="https://github.com/AbubakkarAslam">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/muhammad-abu-bakkar-aslam-505514235/">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mabubakaraslam0@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
@@ -93,6 +93,10 @@ Agentic AI
 <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=013243"/>
 <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-111827?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-111827?style=flat-square&logo=plotly&logoColor=white"/>
+
+
 </p>
 
 </td>

@@ -428,11 +428,11 @@ I'm interested in opportunities involving:
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/muhammad-abu-bakkar-aslam-505514235/">
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mabubakaraslam0@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 

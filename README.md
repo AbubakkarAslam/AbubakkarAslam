@@ -22,6 +22,9 @@
   <a href="mailto:mabubakaraslam0@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
+  <a href="https://www.kaggle.com/mabubakkaraslam">
+    <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=EA4335" />
+  </a>
 </p>
 
 </div>
